@@ -57,4 +57,4 @@ Programa que permite registrar las calificaciones de estudiantes, calcular prome
 Sistema básico para registrar productos, consultar existencias y actualizar las cantidades de un inventario.
 ## 📫 Contacto
 
-- Email: [Tu correo profesional]
+- Email: wuillpillaca@gmail.com
