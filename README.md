@@ -27,7 +27,7 @@ académicos en situaciones reales.
 - SQL
 
 ### Bases de datos
-- MySQL
+- MySQl
 - SQL Server
 - MongoDB
 - PostgreSQL
