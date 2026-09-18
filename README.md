@@ -1,16 +1,63 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Wuill Pillaca 
 
-<!--
-**wuillpillaca27-crypto/wuillpillaca27-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Ingeniería de Sistemas
 
-Here are some ideas to get you started:
+💻 Apasionado por el desarrollo de software,
+la programación y la tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mí
+
+Soy estudiante de Ingeniería de Sistemas interesado
+en el desarrollo de aplicaciones y la resolución
+de problemas mediante la programación.
+
+Actualmente estoy fortaleciendo mis conocimientos
+en Java, Python, bases de datos e ingeniería
+de software.
+
+Me interesa aprender continuamente y desarrollar
+proyectos que me permitan aplicar mis conocimientos
+académicos en situaciones reales.
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes de programación
+- Java
+- Python
+- SQL
+
+### Bases de datos
+- MySQL
+- SQL Server
+- MongoDB
+- PostgreSQL
+
+### Herramientas
+- Git
+- GitHub
+- Visual Studio Code
+
+## 📚 Actualmente aprendiendo
+
+- Programación orientada a objetos
+- Desarrollo backend con Java
+- Estructuras de datos y algoritmos
+- Diseño y modelado de software
+- Bases de datos relacionales y NoSQL
+
+## 📌 Proyectos destacados
+
+🔹 Proyecto 1: [Nombre del proyecto]
+Descripción breve del proyecto.
+
+🔹 Proyecto 2: [Nombre del proyecto]
+Descripción breve del proyecto.
+
+🔹 Proyecto 3: [Nombre del proyecto]
+Descripción breve del proyecto.
+
+## 📫 Contacto
+
+- GitHub: [Tu usuario]
+- LinkedIn: [Tu perfil]
+- Email: [Tu correo profesional]
