@@ -47,17 +47,14 @@ académicos en situaciones reales.
 
 ## 📌 Proyectos destacados
 
-🔹 Proyecto 1: [Nombre del proyecto]
-Descripción breve del proyecto.
+🔹 Proyecto 1: calculadora
+Aplicación de consola que permite realizar operaciones matemáticas básicas como suma, resta, multiplicación y división.
 
-🔹 Proyecto 2: [Nombre del proyecto]
-Descripción breve del proyecto.
+🔹 Proyecto 2: sistema-notas-estudiantes
+Programa que permite registrar las calificaciones de estudiantes, calcular promedios y mostrar sus resultados académicos.
 
-🔹 Proyecto 3: [Nombre del proyecto]
-Descripción breve del proyecto.
-
+🔹 Proyecto 3: sistema-inventario
+Sistema básico para registrar productos, consultar existencias y actualizar las cantidades de un inventario.
 ## 📫 Contacto
 
-- GitHub: [Tu usuario]
-- LinkedIn: [Tu perfil]
 - Email: [Tu correo profesional]
